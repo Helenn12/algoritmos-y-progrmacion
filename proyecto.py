@@ -1,3 +1,7 @@
+#Vamos a crear un diccionario de fornulas quimicas para facilitar algunos elementos de la tabla periodica
+#Se deben crear un diccionario completamente diferente en cada elemento 
+#Cada diccionario debe estar cerrado y ser completamente unico
+
 fórmulas_quimicas = {
     "Nombre": "Hidrógeno",
     "Símbolo": "H",
@@ -67,6 +71,8 @@ fórmulas_I = {
     "Número atómico": 52,
     "Fórmula química": "Te"
 }
+
+#se debe imprimir cada lista para que el sistema lo reconozca 
 
 print("Hidrógeno", fórmulas_quimicas)
 print("Lantano", fórmulas_A)
